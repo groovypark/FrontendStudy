@@ -5,6 +5,7 @@ body {
   background-repeat : no-repeat;
   background-attachment :fixed;
   background-size : cover;
+  padding-bottom: 70px;
 }
 nav {
   float: right;
